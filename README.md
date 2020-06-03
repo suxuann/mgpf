@@ -2,11 +2,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HitCount](http://hits.dwyl.com/suxuann/mgpf.svg)](http://hits.dwyl.com/suxuann/mgpf)
 
+
 TensorFlow implementation of Multiplicative Gaussian Particle Filter. We apply MGPF on robot localization as a proof-of-concept.
 
 Xuan Su, Wee Sun Lee, and Zhen Zhang: Multiplicative Gaussian Particle Filter. 
 The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS 2020).
 https://arxiv.org/pdf/2003.00218.pdf
+
+[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 ### Pipeline for the Observation Function
 <img src="./figs/architecture.png"  width="635" height="111" />
@@ -57,4 +61,3 @@ Credits to Peter Karkus.
 Xuan Su <suxuan (at) comp.nus.edu.sg>
 
 After August 2020, the email address will change to <suxuan (at) stanford.edu>. I'm so proud of myself! 😝 
- 
