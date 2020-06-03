@@ -1,4 +1,6 @@
 # Multiplicative Gaussian Particle Filter
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![HitCount](http://hits.dwyl.com/suxuann/mgpf.svg)](http://hits.dwyl.com/suxuann/mgpf)
 
 TensorFlow implementation of Multiplicative Gaussian Particle Filter. We apply MGPF on robot localization as a proof-of-concept.
 
