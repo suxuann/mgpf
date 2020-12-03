@@ -59,5 +59,3 @@ Credits to Peter Karkus.
 ### Contact
 
 Xuan Su <suxuan (at) comp.nus.edu.sg>
-
-After August 2020, the email address will change to <suxuan (at) stanford.edu>. I'm so proud of myself! 😝 
